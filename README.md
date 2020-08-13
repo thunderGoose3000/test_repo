@@ -1,2 +1,2 @@
 # Hello there!
-Some text here
+Some text here. Welcome!
